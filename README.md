@@ -24,9 +24,7 @@ pip install -r requirements.txt
 
 ### Dataset downloading
 
-Please download the datasets from the following anonymous link and put the unzipped dataset in the `data` folder:
-
-https://drive.google.com/drive/folders/1_H3YA6wdJ-JizUVhCabcnVuaN8upJcQJ?usp=sharing
+Please download the datasets and put the unzipped dataset in the `data` folder:
 
 Example of the file structure:
 ```
